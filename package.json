@@ -1,0 +1,16 @@
+{
+  "name": "blogen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d blogen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://KelvinMitaki.github.io/blogen",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
